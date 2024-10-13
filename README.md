@@ -1,5 +1,6 @@
-# Mask2face
+# BTP
 
+## Mask2Face
 Can you virtually remove a face mask to see what a person looks like underneath? Our Machine Learning team proves it’s possible via an image inpainting-based ML solution. [Here](https://www.strv.com/blog/mask2face-how-we-built-ai-that-shows-face-beneath-mask-engineering) is exactly how our engineers approached the problem — from the preconditions to the implementation, results and future improvements.
 
 **Check out [the article](https://www.strv.com/blog/mask2face-how-we-built-ai-that-shows-face-beneath-mask-engineering) for a more in-depth explanation**
